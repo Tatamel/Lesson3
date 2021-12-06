@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/calculator_page"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_calculate_24"
+        android:title="@string/calculator" />
+    <item
+        android:id="@+id/sanpin_page"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_library_books_24"
+        android:title="@string/sanpin" />
+    <item
+        android:id="@+id/info_page"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_info_24"
+        android:title="@string/info" />
+
+
+</menu>

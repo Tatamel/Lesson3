@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lesson4</string>
+    <string name="sanpin">СанПиН</string>
+    <string name="info">info</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="calculator">calculator</string>
+    <string name="hello">hello</string>
+</resources>
